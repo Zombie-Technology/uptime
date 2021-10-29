@@ -41,8 +41,6 @@ sites:
     url: https://eso-sense.com
   - name: Groupe JFK
     url: https://groupejfk.ca
-  - name: Hellofaride
-    url: https://hellofaride.ca
   - name: Julio Pizza
     url: https://julio.pizza
     expectedStatusCodes:
@@ -63,20 +61,12 @@ sites:
     - 302
   - name: MJReno
     url: https://mjreno.ca
-  - name: Pave MC
-    url: https://pavemc.ca
   - name: O Boutte
     url: https://oboutte.ca
-  - name: MS Électromécanique
-    url: https://mselectromecanique.com
   - name: Sheriff Ville
     url: https://sherifville.com
   - name: Sub satori
     url: https://subsatori.com
-  - name: Stika
-    url: https://stika.ca
-  - name: Spirales Boreales
-    url: https://spiralesboreales.com
   - name: Passion saveurs Keto
     url: https://passionsaveursketo.ca
     ########################
