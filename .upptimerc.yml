@@ -6,7 +6,6 @@ repo: uptime # Your Github repository name
 # Add your sites here
 assignees:
   - l1kw1d
-  - achalifour
 sites: 
   - name: Zombie Graphique Inc
     url: https://www.zombiegraphique.com
