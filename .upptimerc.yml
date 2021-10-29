@@ -8,8 +8,8 @@ assignees:
   - l1kw1d
 sites: 
   - name: Zombie Graphique Inc
-    url: https://www.zombiegraphique.com
-    icon: https://www.zombiegraphique.com/favicon.ico
+    url: https://zombiegraphique.com
+    icon: https://zombiegraphique.com/favicon.ico
     expectedStatusCodes:
     - 200
     - 301
@@ -33,10 +33,6 @@ sites:
     url: https://bardq.ca
   - name: beautedesiles.ca
     url: https://beautedesiles.ca/
-  - name: Crazy Sign  
-    url: https://crazysign.ca/
-  - name: ddupras
-    url: https://ddupras.com
   - name: Diamand
     url: https://diamand.ca
   - name: DiagDiesel
@@ -49,10 +45,22 @@ sites:
     url: https://hellofaride.ca
   - name: Julio Pizza
     url: https://julio.pizza
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
   - name: Match PME
     url: https://matchpme.ca
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
   - name: Willkess Farm  
     url: https://wilkess.farm
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
   - name: MJReno
     url: https://mjreno.ca
   - name: Pave MC
@@ -85,10 +93,8 @@ status-website:
   introTitle: Websites status monitoring / Surveillance de votre site web
   introMessage: ZombieGraphique Inc.
   navbar:
-    - title: Status | Zombiegraphique Inc. - Imprimerie -Lettrage - Enseignes - Graphisme - Marketing - Site web
+    - title: Status | Zombiegraphique Inc.
       href:  https://status.zombiegraphique.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Notre site Web
       href: https://zombiegraphique.com
     - title: CRM
