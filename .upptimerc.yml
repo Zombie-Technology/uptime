@@ -1,31 +1,98 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Zombie-Technology # Your GitHub username
+repo: uptime # Your Github repository name
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
+# Add your sites here
+assignees:
+  - l1kw1d
+  - achalifour
+sites: 
+  - name: Zombie Graphique Inc
+    url: https://www.zombiegraphique.com
+    icon: https://www.zombiegraphique.com/favicon.ico
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
+  - name: ZombieGraphique CRM
+    url: https://crm.zombiegraphique.com
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
+  - name: Hypnose Nancy Gagnon
+    url: https://www.hypnonancy.com
+    icon: https://hypnonancy.com/favicon.ico
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
+  - name: BardQ.com
+    url: https://bardq.com
+  - name: BarQ.ca
+    url: https://bardq.ca
+  - name: beautedesiles.ca
+    url: https://beautedesiles.ca/
+  - name: Crazy Sign  
+    url: https://crazysign.ca/
+  - name: ddupras
+    url: https://ddupras.com
+  - name: Diamand
+    url: https://diamand.ca
+  - name: DiagDiesel
+    url: https://diagdiesel.com
+  - name: Eso-sense
+    url: https://eso-sense.com
+  - name: Groupe JFK
+    url: https://groupejfk.ca
+  - name: Hellofaride
+    url: https://hellofaride.ca
+  - name: Julio Pizza
+    url: https://julio.pizza
+  - name: Match PME
+    url: https://matchpme.ca
+  - name: Willkess Farm  
+    url: https://wilkess.farm
+  - name: MJReno
+    url: https://mjreno.ca
+  - name: Pave MC
+    url: https://pavemc.ca
+  - name: O Boutte
+    url: https://oboutte.ca
+  - name: MS Électromécanique
+    url: https://mselectromecanique.com
+  - name: Sheriff Ville
+    url: https://sherifville.com
+  - name: Sub satori
+    url: https://subsatori.com
+  - name: Stika
+    url: https://stika.ca
+  - name: Spirales Boreales
+    url: https://spiralesboreales.com
+  - name: Passion saveurs Keto
+    url: https://passionsaveursketo.ca
+    ########################
+  - name: WiFi QR 
+    url: https://wifi.pin.plus
+    icon: https://wifi.pin.plus/favicon.ico
+    
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
+  cname: status.zombiegraphique.com
+  logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
+  name: ZombieGraphique - Surveillance Web 
+  introTitle: Websites status monitoring / Surveillance de votre site web
+  introMessage: ZombieGraphique Inc.
   navbar:
-    - title: Status
-      href: /
+    - title: Status | Zombiegraphique Inc. - Imprimerie -Lettrage - Enseignes - Graphisme - Marketing - Site web
+      href:  https://status.zombiegraphique.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Notre site Web
+      href: https://zombiegraphique.com
+    - title: CRM
+      href: https://crm.zombiegraphique.com
+    - title: WIFI QR
+      href: https://pin.plus/WIFI
