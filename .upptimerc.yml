@@ -10,10 +10,6 @@ sites:
   - name: Zombie Graphique Inc
     url: https://zombiegraphique.com
     icon: https://zombiegraphique.com/favicon.ico
-    expectedStatusCodes:
-    - 200
-    - 301
-    - 302
   - name: ZombieGraphique CRM
     url: https://crm.zombiegraphique.com
     expectedStatusCodes:
@@ -37,8 +33,6 @@ sites:
     url: https://diamand.ca
   - name: DiagDiesel
     url: https://diagdiesel.com
-  - name: Eso-sense
-    url: https://eso-sense.com
   - name: Groupe JFK
     url: https://groupejfk.ca
   - name: Julio Pizza
@@ -54,15 +48,13 @@ sites:
     - 301
     - 302
   - name: Willkess Farm  
-    url: https://wilkess.farm
+    url: https://willkess.farm
     expectedStatusCodes:
     - 200
     - 301
     - 302
   - name: MJReno
     url: https://mjreno.ca
-  - name: O Boutte
-    url: https://oboutte.ca
   - name: Sheriff Ville
     url: https://sherifville.com
   - name: Sub satori
