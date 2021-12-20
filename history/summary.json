@@ -358,19 +358,19 @@
     "url": "https://wifi.pin.plus",
     "icon": "https://wifi.pin.plus/favicon.ico",
     "slug": "wi-fi-qr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 420,
-    "timeDay": 459,
-    "timeWeek": 453,
-    "timeMonth": 484,
+    "timeDay": 430,
+    "timeWeek": 444,
+    "timeMonth": 478,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 21
     }
   }
 ]
