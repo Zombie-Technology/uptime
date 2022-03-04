@@ -10,12 +10,6 @@ sites:
   - name: Zombie Graphique Inc
     url: https://zombiegraphique.com
     icon: https://zombiegraphique.com/favicon.ico
-  - name: ZombieGraphique CRM
-    url: https://crm.zombiegraphique.com
-    expectedStatusCodes:
-    - 200
-    - 301
-    - 302
   - name: Hypnose Nancy Gagnon
     url: https://www.hypnonancy.com
     icon: https://hypnonancy.com/favicon.ico
@@ -23,18 +17,8 @@ sites:
     - 200
     - 301
     - 302
-  - name: BardQ.com
-    url: https://bardq.com
-  - name: BarQ.ca
-    url: https://bardq.ca
-  - name: beautedesiles.ca
-    url: https://beautedesiles.ca/
   - name: Diamand
     url: https://diamand.ca
-  - name: DiagDiesel
-    url: https://diagdiesel.com
-  - name: Groupe JFK
-    url: https://groupejfk.ca
   - name: Julio Pizza
     url: https://julio.pizza
     expectedStatusCodes:
