@@ -1,7 +1,7 @@
 url: https://subsatori.com
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2022-06-29T23:10:00.789Z
+status: down
+code: 403
+responseTime: 69
+lastUpdated: 2022-06-30T05:47:21.333Z
 startTime: Fri Oct 29 2021 20:40:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
